@@ -17,7 +17,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 **了解:**  
-<！-- go语言 -->
+
+<!-- 这是一段被注释掉的文字 -->
 <code><img height="30" src="https://avatars.githubusercontent.com/u/26285756?s=200&v=4"></code>
 <!-- go语言 -->
 <code><img height="30" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4"></code>
