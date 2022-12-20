@@ -16,6 +16,12 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+**了解:**  
+<code><img height="30" src="https://avatars.githubusercontent.com/u/26285756?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SincereCSL)](https://github.com/SincereCSL/github-readme-stats)
 
 [![SincereCSL's github stats](https://github-readme-stats.vercel.app/api?username=SincereCSL)](https://github.com/anuraghazra/github-readme-stats)
