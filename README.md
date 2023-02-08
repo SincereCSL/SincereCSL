@@ -24,7 +24,7 @@
 <code><img height="30" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4"></code><!-- mongodb -->
 <code><img height="30" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4"></code><!-- mysql -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SincereCSL)](https://github.com/SincereCSL/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SincereCSL)](https://github.com/SincereCSL/github-readme-stats) -->
 
 [![SincereCSL's github stats](https://github-readme-stats.vercel.app/api?username=SincereCSL)](https://github.com/anuraghazra/github-readme-stats)
 
