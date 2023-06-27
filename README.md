@@ -3,7 +3,7 @@
 **社区主页**  
 
 - [个人博客](https://sincerecsl.github.io/)
-- [Twitter](https://twitter.com/csl_sincere)
+- [Twitter](https://twitter.com/PersistentCute)
 - [Bilibili](https://space.bilibili.com/407692348)
 - [知乎](https://www.zhihu.com/people/zhi-zhao-paranoid)
 - [掘金](https://juejin.cn/user/3474112473473326)
