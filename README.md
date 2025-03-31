@@ -111,5 +111,8 @@
   ⚡ 座右铭：天赋有高低，努力无极限！
 </p>
 
+
 <!-- 动态波浪 -->
-<img width="100%" alt="Wave" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/wave.png"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
