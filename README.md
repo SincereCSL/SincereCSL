@@ -39,16 +39,6 @@
 
 ---
 
-### 📄 我的简历
-
-<p align="center">
-  <a href="https://your-resume-link.com/SincereCSL_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-查看我的简历-green?style=for-the-badge&logo=readthedocs" />
-  </a>
-</p>
-
----
-
 ### 💪 技术栈
 
 #### ⭐️ 擅长 (Proficient)
