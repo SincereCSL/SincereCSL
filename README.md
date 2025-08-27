@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi, I'm SincereCSL</h1>
 <h3 align="center">天赋有高低，努力无极限 💪</h3>
 
@@ -10,7 +11,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=SincereCSL.SincereCSL" />
-  <img src="https://komarev.com/ghpvc/?username=SincereCSL&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/SincereCSL?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/SincereCSL?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 </div>
