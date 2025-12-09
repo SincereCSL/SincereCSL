@@ -67,13 +67,13 @@
 <h3 align="center">📊 Data & Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SincereCSL&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SincereCSL&layout=compact&langs_count=7&theme=radical" height="180em" />
+  <img src="https://readme-stats.cbqq.cn/api?username=SincereCSL&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://readme-stats.cbqq.cn/api/top-langs/?username=SincereCSL&layout=compact&langs_count=7&theme=radical" height="180em" />
 </div>
 <br/>
 <div align="center">
-  <!-- Fixed Link: switched to streak-stats.demolab.com -->
-  <img src="https://streak-stats.demolab.com?user=SincereCSL&theme=radical" height="180em" />
+  <!-- Streak Stats hidden due to network issues in China -->
+  <!-- <img src="https://streak-stats.demolab.com?user=SincereCSL&theme=radical" height="180em" /> -->
 </div>
 
 <p align="center">
