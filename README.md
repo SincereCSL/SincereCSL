@@ -64,16 +64,45 @@
 
 ---
 
-<h3 align="center">📊 Data & Stats</h3>
+<h3 align="center">⚡ Capabilities & Status</h3>
 
 <div align="center">
-  <img src="https://readme-stats.cbqq.cn/api?username=SincereCSL&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://readme-stats.cbqq.cn/api/top-langs/?username=SincereCSL&layout=compact&langs_count=7&theme=radical" height="180em" />
-</div>
-<br/>
-<div align="center">
-  <!-- Streak Stats hidden due to network issues in China -->
-  <!-- <img src="https://streak-stats.demolab.com?user=SincereCSL&theme=radical" height="180em" /> -->
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <b>System Metrics</b>
+        <br/><br/>
+        <table>
+          <tr>
+            <td><b>FOCUS</b></td>
+            <td><code>██████████░░</code> 85% Front-end</td>
+          </tr>
+          <tr>
+            <td><b>LEARNING</b></td>
+            <td><code>██████▒▒▒▒▒▒</code> 50% WebRTC/Go</td>
+          </tr>
+           <tr>
+            <td><b>CODING</b></td>
+            <td><code>████████████</code> 100% Passion</td>
+          </tr>
+          <tr>
+            <td><b>STATUS</b></td>
+            <td>🟢 <b>ONLINE</b></td>
+          </tr>
+        </table>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <b>Current Mission</b>
+        <br/><br/>
+        > <i>"Building high-performance interfaces and exploring the depths of browser capabilities."</i>
+        <br/><br/>
+        <b>Next Objective:</b><br/>
+        <code>[ ] Master WebRTC Internals</code><br/>
+        <code>[ ] Contribute to Open Source</code><br/>
+        <code>[x] Drink Coffee</code>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
